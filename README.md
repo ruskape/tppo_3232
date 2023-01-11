@@ -59,7 +59,7 @@ chmod +x tppo_server_3232.py
 
     3.1. ```info``` is a key for getting information about fan state.
     
-    3.2. ```-edit```, ```-c``` is keys for setting the speed and temperature of the fan. 
+    3.2. ```-edit```, is a key for setting the speed and temperature of the fan. 
       
       Speed - glow intensity (0 .. 10 conditional units). 
       
